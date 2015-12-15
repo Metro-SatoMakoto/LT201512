@@ -154,14 +154,15 @@ index.htmlを表示しているだけ。
 <!--
     Githubアカウントでログインできるサービス多数  
 -->
-![OAuth](oauth01.jpg)    
-![OAuth](oauth02.jpg)    
+<img src="http://metro-satomakoto.github.io/LT201512/oauth01.jpg" width="700px" alt="Travis ci">
+<img src="http://metro-satomakoto.github.io/LT201512/oauth02.jpg" width="700px" alt="Ansible-galaxy">
 
 
 ## reveal.js  
 <!--
     Github pagesをパワポ代わりに！  
-    これもmarkdownなので手元のエディターでOK。  
+    markdownなので手元のエディターで書きつつスライド作成可能。  
+    Windowsだと面倒なのでMac欲しいです。  
 -->
 ![原稿](revealjs01.jpg)   
 
@@ -172,9 +173,10 @@ index.htmlを表示しているだけ。
 
 こう見せてくれる。  
 今見てますね。  
-   
 
-## zenhub
+
+
+## ZenHub
 <!--
     issueをカンバン風に表示してくれるChromeアプリ。  
 -->
@@ -189,10 +191,11 @@ index.htmlを表示しているだけ。
 こう整理できる。  
 
 
-## travis ci  
+## Travis CI  
 <!--
     Githubでは定番のCIツール。  
     みんなREADME.mdにバッジを貼ってる。  
+    いまどきっぽい感じですね。  
 -->
 ![travis ci passing](travisci01.jpg)  
 
@@ -205,7 +208,7 @@ Travis CIのビルド通過のバッジ。
 
 
 
-## slack  
+## Slack  
 <!--
     チャットアプリ。  
     SlackはGithubの周辺サービスというわけではなく、それ自身がハブになっている。  
@@ -230,7 +233,7 @@ commitをpushすると
 
 # だからみんなGitHubを使おう
 
-こんなに便利で楽しいGitHub。
+こんなに便利で楽しいGitHub。  
 さあ、 Let's social coding!  
 <img src="https://octodex.github.com/images/original.png" width="300px" alt="マスコットoctcat">
 
@@ -251,10 +254,13 @@ commitをpushすると
 **GitHubのアカウントはプログラマーの履歴書になってしまう**  
 のです・・・。  
 <!-- -->  
-GitHubにアカウントを持っていないプログラマーなんて、そんなプログラマーはいないんです・・・。  
-これからいっぱい使って立派なプログラマーになるんだ・・・ (´・ω・`)  
+GitHubにアカウントを持っていないプログラマーなんて、  
+そんなプログラマーはいないんです・・・。  
+これからいっぱい使って立派なプログラマーに・・・  
+なるんだ・・・ (´・ω・`)  
 
 
 # 俺たちの戦いはこれからだ！  
 
 
+## ありがとうございました。  
