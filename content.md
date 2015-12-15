@@ -141,12 +141,21 @@ Visual Studio Codeでレンダリングしつつ書く。
 
 
 ## reveal.js  
-![Github pages](gh-pages_02.jpg)   
 <!--
     Github pagesをパワポ代わりに！  
     これもmarkdownなので手元のエディターでおk。  
 -->
 
+![原稿](gh-pages_03.jpg)   
+
+これが原稿で・・・  
+
+
+![プレゼン風](gh-pages_04.jpg)
+
+こう見せてくれる。  
+今見てますね。
+   
 
 ## zenhub
 ![zenhub](zenhub.jpg)  
