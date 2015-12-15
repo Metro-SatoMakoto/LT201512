@@ -174,7 +174,18 @@ Visual Studio Codeでレンダリングしつつ書く。
 
 ## travis ci  
 <!--
+    Githubでは定番のCIツール。  
+    みんなREADME.mdにバッジを貼ってる。  
 -->
+![travis ci passing](travisci01.jpg)  
+
+このバッジは  
+
+
+![zenhub](travisci02.jpg)  
+
+Travis CIのオートビルド通過のバッジ。  
+
 
 
 ## slack  
