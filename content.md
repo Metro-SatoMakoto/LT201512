@@ -12,6 +12,7 @@ LT201512
 
 # GitHubとは
 
+<img src="https://octodex.github.com/images/original.png" width="300px" alt="マスコットoctcat">
 
 
 # こんなサービス
@@ -160,6 +161,8 @@ Gitホスティングサービス
 # だからみんなGitHubを使おう
 
 さあ、 Let's social coding!  
+<img src="https://octodex.github.com/images/original.png" width="300px" alt="マスコットoctcat">
+
 
 <!--
 こんなに便利なサービスを使わないんですか？  
