@@ -25,7 +25,8 @@ Gitホスティングサービス
 
 ## Fork  
 Gitリポジトリーのcloneを独自に管理。  
-![Fork](fork.jpg)  
+<img src="http://metro-satomakoto.github.io/LT201512/fork.jpg" width="700px" alt="Fork">
+
 
 
 ## PullRequest  
@@ -45,7 +46,7 @@ GitHub、Social Codingの代名詞。
 マージすると  
 
 
-![PullRequestをマージ](pullrequest04.jpg)  
+<img src="http://metro-satomakoto.github.io/LT201512/pullrequest04.jpg" width="700px" alt="PullRequestをマージ">
 
 取り込める  
 (これは自分のリポジトリーなのでサードパーティーのプルリクとは少しちがう)  
@@ -53,17 +54,17 @@ GitHub、Social Codingの代名詞。
 
 
 ## ドキュメントはmarkdown  
-![レンダリング後](markdown01.jpg)  
+<img src="http://metro-satomakoto.github.io/LT201512/markdown01.jpg" width="700px" alt="レンダリング後">
 
 これは実は・・・
 
 
-![raw](markdown02.jpg)
+<img src="http://metro-satomakoto.github.io/LT201512/markdown02.jpg" width="700px" alt="raw">
 
 こう書かれている。  
 
 
-![VS Code](markdown03.jpg)
+<img src="http://metro-satomakoto.github.io/LT201512/markdown03.jpg" width="700px" alt="VS code">
 
 Visual Studio Codeでレンダリングしつつ書く。
   
@@ -71,7 +72,8 @@ Visual Studio Codeでレンダリングしつつ書く。
 
 ## お値段無料  
 オープンソースなら無料。  
-![pricing](price.jpg)
+<img src="http://metro-satomakoto.github.io/LT201512/price.jpg" width="700px" alt="pricing">
+
 
 
 # こんなに便利
@@ -79,17 +81,17 @@ Visual Studio Codeでレンダリングしつつ書く。
 
 ## issue管理
 はじめのうちはチケットトラッキングシステム不要。  
-![issue管理](issue.jpg)
+<img src="http://metro-satomakoto.github.io/LT201512/issue.jpg" width="700px" alt="issue管理">
 
 
 ## GitHub Pages
 プロジェクト紹介、デモページにできる。  
-![ブランチ](gh-pages_01.jpg)
+<img src="http://metro-satomakoto.github.io/LT201512/gh-pages_01.jpg" width="700px" alt="ブランチ">
 
 リポジトリーにgh-pagesブランチを作って  
 
 
-![index.html](gh-pages_02.jpg)
+<img src="http://metro-satomakoto.github.io/LT201512/gh-pages_02.jpg" width="700px" alt="index.html">
 
 htmlを書くだけ。  
 JavaScriptも使える。  
@@ -103,18 +105,18 @@ JavaScriptも使える。
 
 ## OAuthを提供
 GitHubアカウントでログインできるサービス多数  
-<img src="http://metro-satomakoto.github.io/LT201512/oauth01.jpg" width="700px" alt="Travis ci">
-<img src="http://metro-satomakoto.github.io/LT201512/oauth02.jpg" width="700px" alt="Ansible-galaxy">
+<img src="http://metro-satomakoto.github.io/LT201512/oauth01.jpg" width="500px" alt="Travis ci">
+<img src="http://metro-satomakoto.github.io/LT201512/oauth02.jpg" width="500px" alt="Ansible-galaxy">
 
 
 ## reveal.js  
 GitHub Pagesをパワポ風に。  
-![原稿](revealjs01.jpg)   
+<img src="http://metro-satomakoto.github.io/LT201512/revealjs01.jpg" width="700px" alt="原稿">
 
 これが原稿のmarkdownで・・・  
 
 
-![プレゼン風](revealjs02.jpg)
+<img src="http://metro-satomakoto.github.io/LT201512/revealjs02.jpg" width="700px" alt="パワポ風">
 
 こう見せてくれる。  
 今見てますね。  
@@ -123,12 +125,12 @@ GitHub Pagesをパワポ風に。
 
 ## ZenHub
 issueをカンバン風に表示してくれるChromeアプリ。  
-![issue](issue.jpg)  
+<img src="http://metro-satomakoto.github.io/LT201512/issue.jpg" width="700px" alt="issue">
 
 これを・・・  
 
 
-![zenhub](zenhub.jpg)  
+<img src="http://metro-satomakoto.github.io/LT201512/zenhub.jpg" width="700px" alt="zenhub">
 
 こう整理できる。  
 作業内容が一目瞭然。  
@@ -136,12 +138,12 @@ issueをカンバン風に表示してくれるChromeアプリ。
 
 ## Travis CI
 GitHubでは定番のCIツール。  
-![travis ci passing](travisci01.jpg)  
+<img src="http://metro-satomakoto.github.io/LT201512/travisci01.jpg" width="700px" alt="travis ci passing">
 
 このバッジは  
 
 
-![travis ci](travisci02.jpg)  
+<img src="http://metro-satomakoto.github.io/LT201512/travisci02.jpg" width="700px" alt="travis ci">
 
 Travis CIのビルド通過のバッジ。  
 GitHubにPushすると自動的にビルドしているリポジトリー多数。  
@@ -151,13 +153,13 @@ GitHubにPushすると自動的にビルドしているリポジトリー多数�
 ## Slack  
 チャットプラットフォーム。  
 GitHubの周辺ツールというわけではないのですが・・・  
-![slack](slack01.jpg)
+<img src="http://metro-satomakoto.github.io/LT201512/slack01.jpg" width="700px" alt="slack">
 
 commitをpushすると  
 
 
   
-![slack](slack02.jpg)
+<img src="http://metro-satomakoto.github.io/LT201512/slack02.jpg" width="700px" alt="slack">
 
 チャットにログが流れる  
 Travis CIのビルド結果も流せる。  
