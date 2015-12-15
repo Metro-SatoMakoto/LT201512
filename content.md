@@ -67,9 +67,24 @@ Gitホスティングサービス
     リアルタイムレンダリングできるエディター多数(例:atom)  
 -->
 
+![レンダリング後](markdown01.jpg)  
+
+これは実は・・・
+
+
+![raw](markdown02.jpg)
+
+こう書かれている。
+  
+
+![VS Code](markdown03.jpg)
+
+Visual Studio Codeでレンダリングしつつ書く。
+  
 
 
 ## お値段無料  
+![pricing](price.jpg)
 <!--
     ・・・オープンソース(Public repository)なら。  
     Private repositoryは有料なり。  
