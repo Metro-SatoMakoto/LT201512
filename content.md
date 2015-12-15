@@ -182,7 +182,7 @@ Visual Studio Codeでレンダリングしつつ書く。
 このバッジは  
 
 
-![zenhub](travisci02.jpg)  
+![travis ci](travisci02.jpg)  
 
 Travis CIのオートビルド通過のバッジ。  
 
@@ -190,12 +190,12 @@ Travis CIのオートビルド通過のバッジ。
 
 ## slack  
 <!--
+    チャットアプリ。  
+    SlackはGithubの周辺サービスというわけではなく、それ自身がハブになっている。  
+    ここではgithubにコミットをpushすると自動的にSlackにコミットログが流れるようにしている。  
+    自分でリポジトリを持ち、PullRequestを活用するようになるとありがたくなるかと。  
 -->
-
-
-## koding  
-<!--
--->
+![slack](slack.jpg)  
 
 
 
@@ -205,6 +205,7 @@ Travis CIのオートビルド通過のバッジ。
 
 # だからみんなGitHubを使おう
 
+こんなに便利で楽しいGitHub。
 さあ、 Let's social coding!  
 <img src="https://octodex.github.com/images/original.png" width="300px" alt="マスコットoctcat">
 
