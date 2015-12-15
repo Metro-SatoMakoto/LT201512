@@ -78,8 +78,8 @@ Gitホスティングサービス
 
 ![raw](markdown02.jpg)
 
-こう書かれている。
-  
+こう書かれている。  
+
 
 ![VS Code](markdown03.jpg)
 
@@ -107,54 +107,71 @@ Visual Studio Codeでレンダリングしつつ書く。
 
 
 ## Github pages  
-![Github pages](gh-pages_01.jpg)
-![Github pages](gh-pages_02.jpg)      
 <!--
     プロジェクトを他者に説明するページ。  
     Gitリポジトリーの1ブランチ。ブランチ名を"gh-pages"にするだけ。  
     Webサーバーが稼働していて、htmlをレンダリングして表示できる。
     アプリケーションサーバー的な使い方はできないが、Javascriptも動くので動きのあるページは作れる。  
-    まさしく今見ているこのプレゼン風ページはJavascriptで実現している。
+    デモページが王道らしい。  
 -->
+![ブランチ](gh-pages_01.jpg)
+
+gh-pagesブランチの  
+
+
+![index.html](gh-pages_02.jpg)
+
+index.htmlを表示しているだけ。  
+
+
+![内容は外出し](gh-pages_03.jpg)
+
+内容はcontent.mdに外出している。  
 
 
 ## gist  
-![埋め込み用タグ](gist01.jpg)
-![シンタックスハイライト](gist02.jpg)
 <!--
     コードスニペットを管理できる。  
     これ自身もGitリポジトリー。  
     ブログ埋め込みできる。  
     対応している言語の拡張子であれば、それっぽくシンタックスハイライティングしてくれる。  
+    スニペットなので一部だけでOK.
 -->
+![埋め込み用タグ](gist01.jpg)
+
+ブログ埋め込みに使うタグ  
+
+
+![シンタックスハイライト](gist02.jpg)
+
+コードは適当です  
 
 
 # 広大なエコシステム
 
 
 ## OAuth
-![OAuth](oauth01.jpg)    
-![OAuth](oauth02.jpg)    
 <!--
     Githubアカウントでログインできるサービス多数  
 -->
+![OAuth](oauth01.jpg)    
+![OAuth](oauth02.jpg)    
 
 
 ## reveal.js  
 <!--
     Github pagesをパワポ代わりに！  
-    これもmarkdownなので手元のエディターでおk。  
+    これもmarkdownなので手元のエディターでOK。  
 -->
-
-![原稿](gh-pages_03.jpg)   
+![原稿](revealjs01.jpg)   
 
 これが原稿で・・・  
 
 
-![プレゼン風](gh-pages_04.jpg)
+![プレゼン風](revealjs02.jpg)
 
 こう見せてくれる。  
-今見てますね。
+今見てますね。  
    
 
 ## zenhub
@@ -169,7 +186,7 @@ Visual Studio Codeでレンダリングしつつ書く。
 
 ![zenhub](zenhub.jpg)  
 
-こう整理できる。
+こう整理できる。  
 
 
 ## travis ci  
@@ -184,7 +201,7 @@ Visual Studio Codeでレンダリングしつつ書く。
 
 ![travis ci](travisci02.jpg)  
 
-Travis CIのオートビルド通過のバッジ。  
+Travis CIのビルド通過のバッジ。  
 
 
 
@@ -192,10 +209,18 @@ Travis CIのオートビルド通過のバッジ。
 <!--
     チャットアプリ。  
     SlackはGithubの周辺サービスというわけではなく、それ自身がハブになっている。  
-    ここではgithubにコミットをpushすると自動的にSlackにコミットログが流れるようにしている。  
+    ここではgithubにcommitをpushすると自動的にSlackにコミットログが流れるようにしている。  
     自分でリポジトリを持ち、PullRequestを活用するようになるとありがたくなるかと。  
 -->
-![slack](slack.jpg)  
+![slack](slack01.jpg)
+
+commitをpushすると  
+
+
+  
+![slack](slack02.jpg)
+
+チャットにログが流れる
 
 
 
@@ -223,11 +248,11 @@ Travis CIのオートビルド通過のバッジ。
 
 
 残酷なことに、   
-**GitHubのアカウントはプログラマーの履歴書になってしまう** 
+**GitHubのアカウントはプログラマーの履歴書になってしまう**  
 のです・・・。  
 <!-- -->  
 GitHubにアカウントを持っていないプログラマーなんて、そんなプログラマーはいないんです・・・。  
-これからいっぱい使って立派なプログラマーになるんだ・・・ (´・ω・`)
+これからいっぱい使って立派なプログラマーになるんだ・・・ (´・ω・`)  
 
 
 # 俺たちの戦いはこれからだ！  
