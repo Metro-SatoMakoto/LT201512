@@ -23,15 +23,20 @@ Gitホスティングサービス
 
 
 ## PullRequest  
+![PullRequest作成](pullrequest01.jpg)
+![PullRequest作成](pullrequest02.jpg)
+![PullRequestをマージ](pullrequest03.jpg)
+![PullRequestをマージ](pullrequest04.jpg)
 <!--
     ご存知 'プルリク', 'プルリ', 'PR'  
     GitにはPullRequest機能なし。  
     サードパーティーが"clone->開発->オリジナル開発者に取り込み依頼"することを機能として表現したもの。  
     オープンソース開発のスタンダードになった偉大な機能。  
+    このスクリーンショットではサードパーティーではなく自分自身だけど。
 -->
 
 
-## Forkの概念  
+## Fork  
 <!--
     Git本体には、リポジトリーをどこから持ってきたのかを管理する機能なし。  
     GitHubでは独自にオリジナルリポジトリーを管理している。  
@@ -67,10 +72,14 @@ Gitホスティングサービス
 
 
 ## Github pages  
+![Github pages](gh-pages_01.jpg)
+![Github pages](gh-pages_02.jpg)      
 <!--
     プロジェクトを他者に説明するページ。  
     Gitリポジトリーの1ブランチ。ブランチ名を"gh-pages"にするだけ。  
-    デモページ作れるし、そのままプレゼン風にもできる。(まさしく今見ているこのLTのことだ！)
+    Webサーバーが稼働していて、htmlをレンダリングして表示できる。
+    アプリケーションサーバー的な使い方はできないが、Javascriptも動くので動きのあるページは作れる。  
+    まさしく今見ているこのプレゼン風ページはJavascriptで実現している。
 -->
 
 
