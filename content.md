@@ -158,9 +158,18 @@ Visual Studio Codeでレンダリングしつつ書く。
    
 
 ## zenhub
-![zenhub](zenhub.jpg)  
 <!--
+    issueをカンバン風に表示してくれるChromeアプリ。  
 -->
+
+![issue](issue.jpg)  
+
+これを・・・  
+
+
+![zenhub](zenhub.jpg)  
+
+こう整理できる。
 
 
 ## travis ci  
