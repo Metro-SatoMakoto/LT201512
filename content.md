@@ -23,20 +23,20 @@ Gitホスティングサービス
 
 
 ## PullRequest  
-![PullRequest作成](pullrequest01.jpg)
-これを
+![PullRequest作成](pullrequest01.jpg)  
+これを  
 
 
-![PullRequest作成](pullrequest02.jpg)
-こうして
+![PullRequest作成](pullrequest02.jpg)  
+こうして  
 
 
-![PullRequestをマージ](pullrequest03.jpg)
-マージすると
+![PullRequestをマージ](pullrequest03.jpg)  
+マージすると  
 
 
-![PullRequestをマージ](pullrequest04.jpg)
-取り込まれる
+![PullRequestをマージ](pullrequest04.jpg)  
+取り込まれる  
 <!--
     ご存知 'プルリク', 'プルリ', 'PR'  
     GitにはPullRequest機能なし。  
