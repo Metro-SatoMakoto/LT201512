@@ -23,20 +23,6 @@ Gitホスティングサービス
 
 
 ## PullRequest  
-![PullRequest作成](pullrequest01.jpg)  
-これを  
-
-
-![PullRequest作成](pullrequest02.jpg)  
-こうして  
-
-
-![PullRequestをマージ](pullrequest03.jpg)  
-マージすると  
-
-
-![PullRequestをマージ](pullrequest04.jpg)  
-取り込まれる  
 <!--
     ご存知 'プルリク', 'プルリ', 'PR'  
     GitにはPullRequest機能なし。  
@@ -44,6 +30,24 @@ Gitホスティングサービス
     オープンソース開発のスタンダードになった偉大な機能。  
     このスクリーンショットではサードパーティーではなく自分自身だけど。
 -->
+![PullRequest作成](pullrequest01.jpg)  
+
+これを  
+
+
+![PullRequest作成](pullrequest02.jpg)  
+
+こうして  
+
+
+![PullRequestをマージ](pullrequest03.jpg)  
+
+マージすると  
+
+
+![PullRequestをマージ](pullrequest04.jpg)  
+
+取り込まれる      
 
 
 ## Fork  
