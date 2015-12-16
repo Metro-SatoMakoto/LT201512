@@ -33,27 +33,28 @@ Gitリポジトリーのcloneを独自に管理。
 GitHub、Social Codingの代名詞。  
 ![PullRequest作成](pullrequest01.jpg)  
 
-これを  
+こんなふうに  
 
 
 ![PullRequest作成](pullrequest02.jpg)  
 
-こうして  
+プルリクを作成して  
 
 
 ![PullRequestをマージ](pullrequest03.jpg)  
 
-マージすると  
+リポジトリのオーナーがマージすると  
 
 
 <img src="http://metro-satomakoto.github.io/LT201512/pullrequest04.jpg" width="700px" alt="PullRequestをマージ">
 
-取り込める  
+リクエストしたコミットを取り込み  
 (これは自分のリポジトリーなのでサードパーティーのプルリクとは少しちがう)  
 
 
 
-## ドキュメントはmarkdown  
+## markdown  
+ドキュメントはmarkdownで書く。
 <img src="http://metro-satomakoto.github.io/LT201512/markdown01.jpg" width="700px" alt="レンダリング後">
 
 これは実は・・・
@@ -61,13 +62,12 @@ GitHub、Social Codingの代名詞。
 
 <img src="http://metro-satomakoto.github.io/LT201512/markdown02.jpg" width="700px" alt="raw">
 
-こう書かれている。  
+単なるテキストファイル。  
 
 
 <img src="http://metro-satomakoto.github.io/LT201512/markdown03.jpg" width="700px" alt="VS code">
 
-Visual Studio Codeでレンダリングしつつ書く。
-  
+簡易ワープロの表現力をエディターで獲得。  
 
 
 ## お値段無料  
@@ -88,14 +88,7 @@ Visual Studio Codeでレンダリングしつつ書く。
 プロジェクト紹介、デモページにできる。  
 <img src="http://metro-satomakoto.github.io/LT201512/gh-pages_01.jpg" width="700px" alt="ブランチ">
 
-リポジトリーにgh-pagesブランチを作って  
-
-
-<img src="http://metro-satomakoto.github.io/LT201512/gh-pages_02.jpg" width="700px" alt="index.html">
-
-htmlを書くだけ。  
-JavaScriptも使える。  
-専用ドメインからアクセスしよう。  
+リポジトリーにgh-pagesブランチを作ってhtmlを書くだけ。  
 
 
 # 広大なエコシステム
@@ -113,7 +106,7 @@ GitHubアカウントでログインできるサービス多数
 GitHub Pagesをパワポ風に。  
 <img src="http://metro-satomakoto.github.io/LT201512/revealjs01.jpg" width="700px" alt="原稿">
 
-これが原稿のmarkdownで・・・  
+markdownで原稿を書くと  
 
 
 <img src="http://metro-satomakoto.github.io/LT201512/revealjs02.jpg" width="700px" alt="パワポ風">
@@ -140,13 +133,12 @@ issueをカンバン風に表示してくれるChromeアプリ。
 GitHubでは定番のCIツール。  
 <img src="http://metro-satomakoto.github.io/LT201512/travisci01.jpg" width="700px" alt="travis ci passing">
 
-このバッジは  
+このバッジはTravis CIのビルド通過のバッジ。  
 
 
 <img src="http://metro-satomakoto.github.io/LT201512/travisci02.jpg" width="700px" alt="travis ci">
 
-Travis CIのビルド通過のバッジ。  
-GitHubにPushすると自動的にビルドしているリポジトリー多数。  
+GitHubにPushすると自動的にビルド。  
 
 
 
@@ -162,8 +154,7 @@ commitをpushすると
 <img src="http://metro-satomakoto.github.io/LT201512/slack02.jpg" width="700px" alt="slack">
 
 チャットにログが流れる  
-Travis CIのビルド結果も流せる。  
-複数人開発の味方。  
+Travis CIのビルド結果も流せるし、複数人開発の味方。  
 
 
 
@@ -174,6 +165,7 @@ Travis CIのビルド結果も流せる。
 # だからみんなGitHubを使おう
 
 こんなに便利で楽しいGitHub。  
+今すぐ使いたくなりましたよね？  
 さあ、 Let's social coding!  
 <img src="https://octodex.github.com/images/original.png" width="300px" alt="マスコットoctcat">
 
@@ -188,8 +180,11 @@ Travis CIのビルド結果も流せる。
 **GitHubのアカウントはプログラマーの履歴書になってしまう**  
 のです・・・。  
 <!-- -->  
-GitHubにアカウントを持っていないプログラマーなんて、  
-そんなプログラマーはいないんです・・・。  
+**GitHubにアカウントを持っていない人はプログラマーじゃない**  
+って言われるんです・・・。  
+↑  
+結論を回収  
+<!-- -->  
 これからいっぱい使って立派なプログラマーに・・・  
 なるんだ・・・ (´・ω・`)  
 
