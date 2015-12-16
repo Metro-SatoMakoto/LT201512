@@ -91,7 +91,7 @@ GitHub、Social Codingの代名詞。
 リポジトリーにgh-pagesブランチを作ってhtmlを書くだけ。  
 
 
-ほか多数
+ほか多数  
 - Gist  
 - Wiki  
 - ★Star  
