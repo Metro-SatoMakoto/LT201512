@@ -49,7 +49,6 @@ GitHub、Social Codingの代名詞。
 <img src="http://metro-satomakoto.github.io/LT201512/pullrequest04.jpg" width="700px" alt="PullRequestをマージ">
 
 リクエストしたコミットを取り込み  
-(これは自分のリポジトリーなのでサードパーティーのプルリクとは少しちがう)  
 
 
 
@@ -119,7 +118,6 @@ markdownで原稿を書くと
 <img src="http://metro-satomakoto.github.io/LT201512/revealjs02.jpg" width="700px" alt="パワポ風">
 
 こう見せてくれる。  
-今見てますね。  
 
 
 
@@ -132,29 +130,25 @@ issueをカンバン風に表示してくれるChromeアプリ。
 
 <img src="http://metro-satomakoto.github.io/LT201512/zenhub.jpg" width="700px" alt="zenhub">
 
-こう整理できる。  
-作業内容が一目瞭然。  
+こう整理できる。作業内容が一目瞭然。  
 
 
 ## Travis CI
 GitHubでは定番のCIツール。  
 <img src="http://metro-satomakoto.github.io/LT201512/travisci01.jpg" width="700px" alt="travis ci passing">
 
-このバッジはTravis CIのビルド通過のバッジ。  
 GitHubにPushすると自動的にビルド。  
 
 
 ## Slack  
 チャットプラットフォーム。  
-GitHubの周辺ツールというわけではないのですが・・・  
 <img src="http://metro-satomakoto.github.io/LT201512/slack02.jpg" width="700px" alt="slack">
 
 commitをpushするとチャットにログを流せる。  
-Travis CIのビルド結果も流せるし、複数人開発の味方。  
 
 
 
-これらはほんの一例です。
+これらはほんの一例です。  
 
 
 
