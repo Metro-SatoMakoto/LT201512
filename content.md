@@ -54,10 +54,10 @@ GitHub、Social Codingの代名詞。
 
 
 ## markdown  
-ドキュメントはmarkdownで書く。
+ドキュメントはmarkdownで書く。  
 <img src="http://metro-satomakoto.github.io/LT201512/markdown01.jpg" width="700px" alt="レンダリング後">
 
-これは実は・・・
+これは実は・・・  
 
 
 <img src="http://metro-satomakoto.github.io/LT201512/markdown02.jpg" width="700px" alt="raw">
@@ -91,13 +91,20 @@ GitHub、Social Codingの代名詞。
 リポジトリーにgh-pagesブランチを作ってhtmlを書くだけ。  
 
 
+ほか多数
+- Gist  
+- Wiki  
+- ★Star  
+- etc...  
+
+
 # 広大なエコシステム
 
 自前機能だけじゃない、充実のエコシステムも魅力。  
 
 
 ## OAuthを提供
-GitHubアカウントでログインできるサービス多数  
+GitHubアカウントでログインできるサービス多数。  
 <img src="http://metro-satomakoto.github.io/LT201512/oauth01.jpg" width="500px" alt="Travis ci">
 <img src="http://metro-satomakoto.github.io/LT201512/oauth02.jpg" width="500px" alt="Ansible-galaxy">
 
@@ -134,26 +141,15 @@ GitHubでは定番のCIツール。
 <img src="http://metro-satomakoto.github.io/LT201512/travisci01.jpg" width="700px" alt="travis ci passing">
 
 このバッジはTravis CIのビルド通過のバッジ。  
-
-
-<img src="http://metro-satomakoto.github.io/LT201512/travisci02.jpg" width="700px" alt="travis ci">
-
 GitHubにPushすると自動的にビルド。  
-
 
 
 ## Slack  
 チャットプラットフォーム。  
 GitHubの周辺ツールというわけではないのですが・・・  
-<img src="http://metro-satomakoto.github.io/LT201512/slack01.jpg" width="700px" alt="slack">
-
-commitをpushすると  
-
-
-  
 <img src="http://metro-satomakoto.github.io/LT201512/slack02.jpg" width="700px" alt="slack">
 
-チャットにログが流れる  
+commitをpushするとチャットにログを流せる。  
 Travis CIのビルド結果も流せるし、複数人開発の味方。  
 
 
@@ -170,8 +166,7 @@ Travis CIのビルド結果も流せるし、複数人開発の味方。
 <img src="https://octodex.github.com/images/original.png" width="300px" alt="マスコットoctcat">
 
 
-<!-- -->  
-<!-- -->  
+
 ## といいつつ、実は・・・
 
 
